@@ -11,6 +11,7 @@ pygresql = "*"
 mysql-connector-python = "*"
 pyjwt = "*"
 requests = "*"
+pydantic = "*"
 
 [dev-packages]
 
